@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Política de Privacidade — Anota Ai: Logs do Pedido (Horário de Brasília)</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  body { font-family: Arial, Helvetica, sans-serif; max-width: 760px; margin: 40px auto; padding: 0 20px; line-height: 1.6; color: #222; }
+  h1 { font-size: 26px; }
+  h2 { font-size: 18px; margin-top: 32px; }
+  small { color: #666; }
+</style>
+</head>
+<body>
+<h1>Política de Privacidade</h1>
+<p><small>Extensão: <strong>Anota Ai — Logs do Pedido (Horário de Brasília)</strong><br>
+Última atualização: 03 de agosto de 2026</small></p>
+<h2>1. O que esta extensão faz</h2>
+<p>Esta extensão funciona exclusivamente dentro do site <strong>anota.ai</strong>. Ao abrir o painel de detalhes de um pedido, ela lê as informações que a própria página já carrega (status do pedido, horários de movimentação e dados do pedido/cliente exibidos na tela) e as reorganiza em um painel auxiliar, convertendo os horários para o fuso de Brasília.</p>
+<h2>2. Quais dados são acessados</h2>
+<p>Para cumprir seu único propósito, a extensão pode ler, dentro da própria página do anota.ai:</p>
+<ul>
+  <li><strong>Conteúdo do site:</strong> status, horários e identificadores do pedido (ex.: shortID, iFood ID, valores).</li>
+  <li><strong>Informações de identificação pessoal:</strong> nome, telefone e endereço de entrega do cliente, exatamente como já exibidos nativamente na tela do pedido pelo próprio anota.ai.</li>
+</ul>
+<p>Nenhuma outra categoria de dado (saúde, financeiro, senhas/autenticação, comunicações pessoais, localização, histórico de navegação ou atividade do usuário) é acessada ou processada.</p>
+<h2>3. Como os dados são usados</h2>
+<p>Todo o processamento acontece <strong>localmente, no navegador do próprio usuário</strong>. Os dados lidos são usados apenas para montar o painel de logs exibido na tela, durante a mesma sessão em que o usuário já está autenticado no anota.ai.</p>
+<h2>4. Compartilhamento e armazenamento de dados</h2>
+<p>Esta extensão:</p>
+<ul>
+  <li><strong>Não coleta, não armazena e não transmite</strong> dados para servidores externos, de propriedade do desenvolvedor ou de terceiros;</li>
+  <li><strong>Não vende nem transfere</strong> dados de usuários a terceiros, sob nenhuma circunstância;</li>
+  <li><strong>Não usa</strong> os dados acessados para finalidades diferentes do propósito único descrito acima (ex.: publicidade, perfil de crédito, empréstimo, treinamento de modelos de IA, etc.).</li>
+</ul>
+<h2>5. Permissões solicitadas</h2>
+<p>A extensão solicita permissão de host apenas para <code>https://*.anota.ai/*</code>, necessária para poder ler e exibir, dentro da própria página, os dados do pedido descritos acima. Nenhuma outra permissão é solicitada.</p>
+<h2>6. Código remoto</h2>
+<p>Toda a lógica da extensão está empacotada dentro do próprio pacote instalado — nenhum código JavaScript é carregado de servidores externos em tempo de execução.</p>
+<h2>7. Alterações nesta política</h2>
+<p>Caso esta política seja atualizada, a nova data de atualização será refletida no topo desta página.</p>
+<h2>8. Contato</h2>
+<p>Dúvidas sobre esta política podem ser enviadas para: <strong>luisgdhein12@gmail.com</strong></p>
+</body>
+</html>
